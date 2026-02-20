@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Template's Method-QBO Integration</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; max-width: 800px; }
+    h1, h2 { color: #333; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p>Last updated: February 20, 2026</p>
+
+<p>This Privacy Policy explains how the "Template's Method-QBO Integration" ("we", "us", or "our") collects, uses, and protects information when you use our integration that connects Method:CRM with QuickBooks Online.</p>
+
+<h2>1. Information We Collect</h2>
+<p>We only access and process information from your QuickBooks Online account that you explicitly authorize us to access via OAuth. This includes:</p>
+<ul>
+  <li>Transaction data (Invoices, Payments, Credit Memos)</li>
+  <li>Customer information (names, IDs, references)</li>
+  <li>Company metadata (for applying payments and credits)</li>
+</ul>
+<p>We do not collect or store personal information from Method:CRM users beyond what is necessary to perform the integration (e.g., your QuickBooks connection tokens).</p>
+
+<h2>2. How We Use Your Information</h2>
+<p>We use the information solely to:</p>
+<ul>
+  <li>Create and update Payments in QuickBooks Online</li>
+  <li>Apply credit memos to invoices as requested through Method:CRM</li>
+  <li>Manage OAuth tokens for authentication</li>
+</ul>
+<p>We do not sell, rent, or share your QuickBooks data with third parties except as required to provide the service (e.g., to Intuit's API) or as required by law.</p>
+
+<h2>3. Data Storage & Security</h2>
+<p>OAuth tokens and related connection data are stored securely in the Method:CRM platform (encrypted where possible). We do not store full transaction details long-term — only what is needed for ongoing functionality. We use industry-standard security measures to protect the data.</p>
+
+<h2>4. Your Rights</h2>
+<p>You can revoke access at any time through the Intuit Developer app management page or by contacting us. Upon revocation, we will stop accessing your QuickBooks data and delete stored tokens.</p>
+
+<h2>5. Changes to This Policy</h2>
+<p>We may update this policy from time to time. We will notify you of material changes via Method:CRM or email.</p>
+
+<h2>6. Contact Us</h2>
+<p>If you have questions about this Privacy Policy, contact:<br>
+Cameron<br>
+Email: cameroncraigconsulting@gmail.com</p>
+
+</body>
+</html>
