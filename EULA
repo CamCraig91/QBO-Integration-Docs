@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>End User License Agreement - Template's Method-QBO Integration</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; max-width: 800px; }
+    h1, h2 { color: #333; }
+  </style>
+</head>
+<body>
+
+<h1>End User License Agreement</h1>
+<p>Last updated: February 20, 2026</p>
+
+<p>This End User License Agreement ("EULA") governs your use of the "Template's Method-QBO Integration" ("the Service"), a custom integration between Method:CRM and QuickBooks Online provided by Templates.</p>
+
+<h2>1. License Grant</h2>
+<p>Subject to your compliance with this EULA, Templates grants you a limited, non-exclusive, non-transferable license to use the Service solely for your own internal business purposes to connect Method:CRM with your QuickBooks Online account.</p>
+
+<h2>2. Restrictions</h2>
+<p>You may not:</p>
+<ul>
+  <li>Reverse engineer, decompile, or attempt to derive the source code of the Service</li>
+  <li>Use the Service in any manner that violates applicable laws or third-party rights</li>
+  <li>Share your QuickBooks OAuth credentials with others</li>
+</ul>
+
+<h2>3. Ownership</h2>
+<p>The Service, including all code, design, and functionality, is owned by Cameron. Nothing in this EULA transfers ownership to you.</p>
+
+<h2>4. No Warranties</h2>
+<p>THE SERVICE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICE WILL BE ERROR-FREE OR UNINTERRUPTED.</p>
+
+<h2>5. Limitation of Liability</h2>
+<p>IN NO EVENT SHALL CAMERON BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY SHALL NOT EXCEED $100 CAD.</p>
+
+<h2>6. Termination</h2>
+<p>We may terminate or suspend your access to the Service at any time, without notice, for any reason, including violation of this EULA. Upon termination, your license ends immediately.</p>
+
+<h2>7. Governing Law</h2>
+<p>This EULA is governed by the laws of Ontario, Canada.</p>
+
+<h2>8. Contact</h2>
+<p>Questions about this EULA? Contact:<br>
+Cameron<br>
+Email: cameroncraigconsulting@gmail.com</p>
+
+</body>
+</html>
